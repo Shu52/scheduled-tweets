@@ -22,3 +22,5 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+* If you are using WSL to run Ruby on Windows, then make sure your Hyper-V is on
