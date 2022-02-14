@@ -1,5 +1,7 @@
 # README
 
+https://gorails.com/episodes/rails-for-beginners-part-7-adding-bootstrap-css-javascript
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
@@ -20,8 +22,6 @@ Things you may want to cover:
 * Services (job queues, cache servers, search engines, etc.)
 
 * Deployment instructions
-
-* ...
 
 * If you are using WSL2 to run Ruby on Windows, then make sure your Hyper-V is on
 
